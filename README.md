@@ -1,8 +1,8 @@
-#README — CosMx 1K TMA Ligand-Receptor Preliminary Analysis
+#README - CosMx 1K TMA Ligand-Receptor Preliminary Analysis
 
 Date: March 19, 2026
 Analyst: Bhavana Parupalli
-Dataset: hcc_tmas_final.RDS — HCC CosMx 1K TMA, 23 patients
+Dataset: hcc_tmas_final.RDS - HCC CosMx 1K TMA, 23 patients
 Location:- /gpfs/data/franses-lab/Cosmx/1k/1k_whole_tma/RDS/
 
 Analysis Description:
@@ -10,7 +10,7 @@ Patients were stratified into High and Low groups based on mean gene expression 
 
 Figures Generated:
 
-1. LGALS9_grant.pdf — LGALS9 tumor expression, High vs Low patients + cell composition
+1. LGALS9_grant.pdf - LGALS9 tumor expression, High vs Low patients + cell composition
 2. JAG1_grant.pdf - JAG1 tumor expression, High vs Low patients + cell composition
 3. NOTCH1_final7.pdf - NOTCH1 endothelial expression, High vs Low patients + cell composition
 4. NOTCH3_final.pdf - NOTCH3 endothelial expression, High vs Low patients + cell composition
