@@ -11,12 +11,12 @@ Patients were stratified into High and Low groups based on mean gene expression 
 Figures Generated:
 
 1. LGALS9_grant.pdf — LGALS9 tumor expression, High vs Low patients + cell composition
-2. JAG1_grant.pdf — JAG1 tumor expression, High vs Low patients + cell composition
-3. NOTCH1_final7.pdf — NOTCH1 endothelial expression, High vs Low patients + cell composition
-4. NOTCH3_final.pdf — NOTCH3 endothelial expression, High vs Low patients + cell composition
-5. JAG1_NOTCH1_clean.pdf — JAG1 tumor vs NOTCH1 endothelial side by side + cell composition
-6. JAG1_NOTCH3_clean.pdf — JAG1 tumor vs NOTCH3 endothelial side by side + cell composition
-7. LR_pairs_summary.pdf — Spearman correlation scatter plots for LGALS9-HAVCR2, IGF1-IGF1R, TNFSF14-LTBR
+2. JAG1_grant.pdf - JAG1 tumor expression, High vs Low patients + cell composition
+3. NOTCH1_final7.pdf - NOTCH1 endothelial expression, High vs Low patients + cell composition
+4. NOTCH3_final.pdf - NOTCH3 endothelial expression, High vs Low patients + cell composition
+5. JAG1_NOTCH1_clean.pdf - JAG1 tumor vs NOTCH1 endothelial side by side + cell composition
+6. JAG1_NOTCH3_clean.pdf - JAG1 tumor vs NOTCH3 endothelial side by side + cell composition
+7. LR_pairs_summary.pdf - Spearman correlation scatter plots for LGALS9-HAVCR2, IGF1-IGF1R, TNFSF14-LTBR
 
 Key Results:
 
